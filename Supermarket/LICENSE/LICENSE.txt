@@ -1,0 +1,13 @@
+
+All the source code of this case study is released under the GNU General Public License.
+
+The case study is pre-packaged with the open source database
+Apache Derby project DBMS version 10.0.2.1
+
+The following file:
+	- derby.jar
+	- derbytools.jar
+are software developed by the Apache Software Foundation <http://www.apache.org/>
+
+Please read the copyright note in file Derby.COPYRIGHT.
+For licensing issues please read Derby.LICENSE.
