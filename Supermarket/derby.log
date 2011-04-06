@@ -1,6 +1,8 @@
 ----------------------------------------------------------------
-2011-03-20 21:12:36.324 GMT:
- Booting Derby version The Apache Software Foundation - Apache Derby - 10.0.2.1 - (106978): instance c013800d-012e-d51c-a376-000000d6d0c8
-on database directory /misc2/steph/Cours/SEG3103/Assignments/2011/A3/Supermarket/SuperMarket 
-
+Wed Apr 06 00:49:17 EDT 2011:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.7.1.1 - (1040133): instance a816c00e-012f-2924-a236-00000000002e 
+on database directory /Users/cliffordgodfrey/Documents/School_Work/SEG/3103/Assignment3/Supermarket/SuperMarket  with class loader sun.misc.Launcher$AppClassLoader@40affc70 
+Loaded from file:/Applications/eclipse/plugins/org.apache.derby.core_10.7.1/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_24-b07-334-10M3326
 Database Class Loader started - derby.database.classpath=''
